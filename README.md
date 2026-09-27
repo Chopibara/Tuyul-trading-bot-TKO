@@ -20,4 +20,4 @@ Bot trading crypto otomatis yang belajar dari data market Tokocrypto.
 ### Hasil
 Akurasi rata-rata 45-65%, pernah tembus 80%+ pas market sideways stabil.
 Jika akurasi <45% -> sistem otomatis skip untuk hindari false signal.
-Pernah evaluasi 4x SL di PEPE saat market crash, jadi ada pembelajaran risk management.
+Pernah evaluasi 4x SL saat market crash, jadi ada pembelajaran risk management.
